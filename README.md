@@ -1,6 +1,7 @@
 # As part of my re-learning the basics of web development
-I'm having an excellent experience with the guys at Scrimba,
-here we will build a birthday greeting page in html & css for the best friend of each of us
+I'm having an excellent experience with the guys at Scrimba.
+In this project we will built a birthday greeting page using HTML & CSS.
+Happy Birthday 🥳
 
 ## About Scrimba
 
